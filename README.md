@@ -64,7 +64,7 @@ automatically enforce policies that ensure that every piece of infrastructure
 that developers provision is made compliant with the organization's policies,
 without requiring additional effort on the part of developers.
 
-Using Scalr, this is be achieved through the enforcement of specific cloud
+Using Scalr, this is achieved through the enforcement of specific cloud
 configurations (e.g. VPC, with Governance), the definition of user-level
 restrictions (Role-Based Access Control), the execution of host-level
 compliance scripts (Global Orchestration), and integration with external
